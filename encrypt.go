@@ -1,4 +1,4 @@
-package crypto_rsa
+package rsa
 
 import "encoding/base64"
 

@@ -1,4 +1,4 @@
-package crypto_rsa
+package rsa
 
 // 使用RSAWithSHA1算法签名
 func SignSha1WithRsa(data string, privateKey string) (string, error) {
